@@ -1,2 +1,2 @@
 # Proyecto-14-SQL
-Este proyecto implica el análisis de una base de datos de un servicio de libros que surgió en respuesta a la creciente demanda de lectura durante la pandemia de COVID-19. El objetivo es generar una propuesta de valor para un nuevo producto, basado en varios análisis clave.
+Este proyecto implica el análisis de una base de datos de un servicio de libros que surgió en respuesta a la creciente demanda de lectura durante la pandemia de COVID-19. La base de datos contiene información sobre libros, editoriales, autores, calificaciones de clientes y reseñas de libros. El objetivo es generar una propuesta de valor para un nuevo producto, basado en varios análisis clave.
